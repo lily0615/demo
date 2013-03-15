@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Activity!</string>
+    <string name="app_name">电话薄</string>
+    <string name="menu_list">电话薄</string>
+    <string name="menu_add">添加</string>
+    <string name="menu_exit">退出</string>
+    <string name="add_contacts">新添加联系人</string>
+    <string name="name">姓名</string>
+    <string name="phone">电话</string>
+    <string name="email">邮箱</string>
+    <string name="address">地址</string>
+    <string name="chongzhi">重置</string>
+    
+</resources>
